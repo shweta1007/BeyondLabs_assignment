@@ -25,6 +25,10 @@ This is a feature-rich web application simulating a Backlink Marketplace, where 
    Visit: http://localhost:3000
 
 
+## 🚀 Deployment
+The app is deployed on Vercel:
+🔗 Live Demo
+
 ### Features
 🗂 Website List Page
 
